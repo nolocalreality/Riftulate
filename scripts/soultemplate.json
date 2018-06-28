@@ -1,0 +1,6 @@
+{ "Calling":"",
+  "Name":"", "Description":"",
+  "APBonus":0, "DexBonus":0, "StrBonus":0, "WDPSBonus":0, "BaseAP":0,
+  "APBuff":0, "WDPSBuff":0, "DexBuff":0, "StrBuff":0,
+  "CPBonusPercent":0, "PCBonusPercent":0
+ }

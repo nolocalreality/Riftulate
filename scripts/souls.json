@@ -1,0 +1,44 @@
+{ "souls" : [
+ { "Calling":"Any",
+   "Name":"No Selection", "Description":"Default 0-0-0",
+   "APBonus":0, "DexBonus":0, "StrBonus":0, "WDPSBonus":0, "BaseAP":0,
+   "APBuff":0, "WDPSBuff":0, "DexBuff":0, "StrBuff":0,
+   "CPBonusPercent":0, "PCBonusPercent":0
+ },
+ { "Calling":"Rogue",
+     "Name":"Nightblade solo", "Description":"61 Nightblade 4 Tactitian 11 Riftstalker",
+   "APBonus":20, "DexBonus":0, "StrBonus":0, "WDPSBonus":20, "BaseAP":5000,
+   "APBuff":0, "WDPSBuff":0, "DexBuff":0, "StrBuff":0,
+   "CPBonusPercent":0, "PCBonusPercent":5
+ },
+  { "Calling":"Rogue",
+      "Name":"Assassin", "Description":"61 Assassin 11 Ranger 4 Nightblade",
+   "APBonus":33, "DexBonus":0, "StrBonus":0, "WDPSBonus":33, "BaseAP":5000,
+   "APBuff":4, "WDPSBuff":4, "DexBuff":0, "StrBuff":0,
+   "CPBonusPercent":0, "PCBonusPercent":10
+ },  
+  { "Calling":"Rogue",
+      "Name":"58 Shadeborn", "Description":"58 Shadeborn 18 Bladedancer 0 Assassin",
+   "APBonus":20, "DexBonus":10, "StrBonus":0, "WDPSBonus":20, "BaseAP":5000,
+   "APBuff":0, "WDPSBuff":0, "DexBuff":0, "StrBuff":0,
+   "CPBonusPercent":0, "PCBonusPercent":0
+ },
+   { "Calling":"Primalist",
+       "Name":"Derv-strom", "Description":"21 Dervish 14 Maelstrom 4 Berserker",
+   "APBonus":8, "DexBonus":12, "StrBonus":0, "WDPSBonus":8, "BaseAP":35000,
+   "APBuff":0, "WDPSBuff":0, "DexBuff":0, "StrBuff":0,
+   "CPBonusPercent":0, "PCBonusPercent":27
+ },
+ { "Calling":"Primalist",
+     "Name":"Maelstrom", "Description":"31 Maelstrom  4 Vulcanist 4 Dervish",
+   "APBonus":16, "DexBonus":0, "StrBonus":0, "WDPSBonus":16, "BaseAP":35000,
+   "APBuff":0, "WDPSBuff":0, "DexBuff":0, "StrBuff":0,
+   "CPBonusPercent":37, "PCBonusPercent":10
+ },
+ { "Calling":"Primalist",
+     "Name":"Fury Blast", "Description":"21 Primal Lord  18 Vulcanist 0 Maelstrom",
+   "APBonus":16, "DexBonus":0, "StrBonus":0, "WDPSBonus":16, "BaseAP":35000,
+   "APBuff":0, "WDPSBuff":0, "DexBuff":0, "StrBuff":0,
+   "CPBonusPercent":0, "PCBonusPercent":7
+ }
+]}
